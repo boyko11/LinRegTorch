@@ -9,7 +9,7 @@ Since I implemented linear regression from scratch,
 this is to see if PyTorch can make it easier
 
 #### Run verified with python 3.7 and numpy 1.18.1
-python lin_reg.py
+python Runner.py
 
 ## Loss Per PyTorch Step (Learning Curve)
 ![Loss per Tensorflow Step](plots/learning_curve.png)
